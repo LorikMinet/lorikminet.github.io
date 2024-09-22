@@ -1,0 +1,5 @@
+site_name: Mon site web
+
+nav:
+  - Home: index.md
+  - Test: test.md
