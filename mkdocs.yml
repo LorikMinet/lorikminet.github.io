@@ -1,8 +1,24 @@
 site_name: Mon site web
 
+language: fr
+
 nav:
   - Home: index.md
   - Test: test.md
 
 theme:
   name: material
+
+palette:
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+    primary: deep purple
+    accent: indigo
+
+
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch
+    primary: black
+    accent: white
