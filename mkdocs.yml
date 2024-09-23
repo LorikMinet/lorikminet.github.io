@@ -1,13 +1,12 @@
 site_name: Mon site web
 
-language: fr
-
 nav:
   - Home: index.md
   - Test: test.md
 
 theme:
   name: material
+  language: fr
   features:
     - navigation.tabs
     - navigation.sections
@@ -19,18 +18,17 @@ theme:
     - content.code.annotation
     - content.code.copy
 
-palette:
-  - scheme: default
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
-    primary: deep purple
-    accent: indigo
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: deep purple
+      accent: indigo
 
-
-  - scheme: slate
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
-    primary: black
-    accent: white
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: black
+      accent: white
