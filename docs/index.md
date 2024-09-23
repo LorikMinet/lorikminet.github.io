@@ -45,8 +45,9 @@ Le plateau de jeu comporte **trois types de cases**:
 
 Chaque personnage possède des affinités spécifiques avec certains lieux, ce qui est affiché lors de la sélection des personnages. Ces affinités augmentent leur attaque et leurs capacités, rendant certains personnages plus puissants selon le lieu dans lequel ils se trouvent.
 
-![Sélection d'un personnage](./img/menu_choix_perso.png "Sélection d'un personnage")
-![Affinités](./img/affinites.png "Liste des affinités")
+![Sélection d'un personnage](./img/menu_choix_perso.png "Sélection d'un personnage")  
+
+![Affinités](./img/affinites.png "Liste des affinités")  
 
 
 ## **Personnages**
