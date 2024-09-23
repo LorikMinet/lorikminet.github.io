@@ -1,8 +1,7 @@
-site_name: Mon site web
+site_name: SAE Jeu vidéo - La Cité Académique
 
 nav:
-  - Home: index.md
-  - Test: test.md
+  - Accueil et présentation: index.md
 
 theme:
   name: material
@@ -32,11 +31,3 @@ theme:
         name: Switch to light mode
       primary: black
       accent: white
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/LorikMinet
-
-    - icon: fontawesome/brands/linkedin
-      link: https://github.com/LorikMinet
