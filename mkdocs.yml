@@ -32,3 +32,11 @@ theme:
         name: Switch to light mode
       primary: black
       accent: white
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/LorikMinet
+
+    - icon: fontawesome/brands/linkedin
+      link: https://github.com/LorikMinet
